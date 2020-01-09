@@ -39,11 +39,8 @@ Training and Testing Framework
 <p align="justify">
 Multi-label image dataset [1] containing 130 images (480 X 640) captured at an indoor facility at University of Trento, Italy (13 objects). Highly imbalanced class distribution.
 </p>
-<p align="center"
-<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/update/Images/23.PNG" width=456 height=336><br>
-Training and Testing Framework
+
+<p align="center">
+<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/23.PNG" width=456 height=336><br>
+Sample Images
 </p>
-
-
-
-  
