@@ -61,3 +61,6 @@ Sample Images
   * AEObjectRecognition.ipynb : AE-based Object Recognition.
   * MobileNetFineTuned.ipynb : MobileNet CNN fine-tuning on the balanced dataset. 
   * Utils.ipynb : Helper Functions
+  
+### References
+[1] Malek, S., Melgani, F., Mekhalfi, M. and Bazi, Y., 2017. Real-time indoor scene description for the visually impaired using   autoencoder fusion strategies with visible cameras. Sensors, 17(11), p.2641.
