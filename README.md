@@ -44,3 +44,15 @@ Multi-label image dataset [1] containing 130 images (480 X 640) captured at an i
 <img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/23.PNG" width=456 height=336><br>
 Sample Images
 </p>
+
+### Additions and Improvements w.r.t. Original Paper
+* Improved the class distribution of the dataset by adding more images (Total 473 Images).
+* Controlled overfitting using image augmentation.
+* Experimented substituting Logistic Regression classifiers in the algorithm pipeline with Random Forest and KNN.
+* Fine-tuned MobileNet CNN (pre-trained on ImageNet) on the balanced dataset.
+* Compared the performance of the algorithm with MobileNet in terms of runtime and accuracy.
+
+### Results
+* Algorithm [1] with Random Forest | AUC ROC: 91.99 | AUC PR: 84.35 | Runtime: 0.017s
+* MobileNet CNN | AUC ROC: 94.78 | AUC PR: 90.52 | Runtime: 0.055s
+
