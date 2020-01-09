@@ -23,5 +23,11 @@ Mekhalfi et al. [1] proposed the use of AEs to transform low-level image feature
 ### Framework
 <p align="justify">
 The object recognition algorithm proposed in [1] first extracts Histograms of Oriented Gradients (HOG) [2], Bag of Words (BoW) [3] and Local Binary Patterns (LBP) [4] feature vectors from an image which are then mapped to their respective high-level feature spaces using AEs. The resulting high-level feature vector of each type is then fed into a separate Logistic Regression (LR) classifier. The output probability vectors from all three LR classifiers are averaged and thresholded to obtain list of predicted labels.
+</p><br>
+
+<p align="center">
+<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/21.PNG" width=488 height=199>
 </p>
+
+
   
