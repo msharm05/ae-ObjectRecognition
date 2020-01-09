@@ -56,3 +56,8 @@ Sample Images
 * Algorithm [1] with Random Forest | AUC ROC: 91.99 | AUC PR: 84.35 | Runtime: 0.017s
 * MobileNet CNN | AUC ROC: 94.78 | AUC PR: 90.52 | Runtime: 0.055s
 
+### Files
+* CODE_dr
+  * AEObjectRecognition.ipynb : AE-based Object Recognition.
+  * MobileNetFineTuned.ipynb : MobileNet CNN fine-tuning on the balanced dataset. 
+  * Utils.ipynb : Helper Functions
