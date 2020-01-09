@@ -14,8 +14,11 @@ recognition method [1] that aims to reduce the amount of computation involved in
 
 ### Objectives
 <p align="justify">
-Mekhalfi et al. [1] proposed the use of AEs to transform low-level image features to high-level feature space representations. The object recognition algorithm proposed in [1] first extracts Histograms of Oriented Gradients (HOG) [2], Bag of Words (BoW) [3] and Local Binary Patterns (LBP) [4] feature vectors from an image which are then mapped to their respective high-level feature spaces using AEs. The obtained high-level features are fed into a Logistic Regression classifier. The primary objectives of this project were:
+Mekhalfi et al. [1] proposed the use of AEs to transform low-level image features to high-level feature space representations. The primary objectives of this project were:
 
 1. To reproduce the object recognition algorithm proposed in [1], and,
 2. To compare the performance of the algorithm [1] with deep CNN based object recognition.
 </p>
+
+### Framework
+
