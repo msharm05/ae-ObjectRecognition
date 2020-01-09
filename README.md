@@ -26,13 +26,13 @@ The object recognition algorithm proposed in [1] first extracts Histograms of Or
 </p><br>
 
 <p align="center">
-Object Recognition Algorithm<br>
-<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/21.PNG" width=488 height=199>
+<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/21.PNG" width=488 height=199><br>
+Object Recognition Algorithm
 </p>
 
 <p align="center">
-Training and Testing Framework<br>
-<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/22.PNG" width=488 height=392>
+<img src="https://github.com/msharm05/ae-ObjectRecognition/blob/master/Images/22.PNG" width=488 height=392><br>
+Training and Testing Framework
 </p>
 
 
