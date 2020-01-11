@@ -47,7 +47,7 @@ Sample Images
 
 ### Additions and Improvements w.r.t. Original Paper
 * Improved the class distribution of the dataset by adding more images (Total 473 Images).
-* Controlled overfitting using image augmentation.
+* Controlled model overfitting using image augmentation and dropout.
 * Experimented substituting Logistic Regression classifiers in the algorithm pipeline with Random Forest and KNN.
 * Fine-tuned MobileNet CNN (pre-trained on ImageNet) on the balanced dataset.
 * Compared the performance of the algorithm with MobileNet in terms of runtime and accuracy.
