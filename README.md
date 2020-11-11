@@ -16,7 +16,7 @@ recognition method [1] that aims to reduce the amount of computation involved in
 <p align="justify">
 Mekhalfi et al. [1] proposed the use of AEs to transform low-level image features to high-level feature space representations. The primary objectives of this project were:
 
-1. To reproduce the object recognition algorithm proposed in [1], and,
+1. To reproduce and improve the object recognition algorithm proposed in [1], and,
 2. To compare the performance of the algorithm [1] with deep CNN based object recognition.
 </p>
 
